@@ -1,0 +1,7 @@
+setup.py
+Calculos/__init__.py
+Calculos/general_calc.py
+package_general_calc.egg-info/PKG-INFO
+package_general_calc.egg-info/SOURCES.txt
+package_general_calc.egg-info/dependency_links.txt
+package_general_calc.egg-info/top_level.txt
